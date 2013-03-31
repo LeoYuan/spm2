@@ -50,5 +50,3 @@ If you have any problem about `build`, you should open an issue at [grunt-spm-bu
 ## Contribute
 
 Yes, please do contribute. But before this, you should read our [Contributing Guide](https://github.com/spmjs/spm2/blob/master/CONTRIBUTING.md).
-
-trying to make some changes, so I can make a commit.
